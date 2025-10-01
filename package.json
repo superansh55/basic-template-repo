@@ -1,6 +1,6 @@
 {
   "name": "basic-template-repo",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/superansh55/basic-template-repo.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/superansh55/basic-template-repo/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/superansh55/basic-template-repo#readme",
+  "homepage": "",
   "devDependencies": {
     "css-loader": "^7.1.2",
     "html-webpack-plugin": "^5.6.4",
